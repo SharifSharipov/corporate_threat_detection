@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755255869620",
+    "project_id": "corporate-threat-detection",
+    "storage_bucket": "corporate-threat-detection.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755255869620:android:000d287a8a540df9bed7e1",
+        "android_client_info": {
+          "package_name": "com.example.corporate_threat_detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuyAwr2gtrlRx60xcimCY6F6aF71ZBShk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
